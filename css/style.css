@@ -41,7 +41,7 @@ body {
 }
 /* メインセクションのCSS */
 .header_section {
-  background-image: url(/00_first_work/img/mainbg.png);
+  background-image: url(https://github.com/taniguchiryuzo/cheeese-academy/blob/main/img/about-image.jpg?raw=true);
   height: 500px;
   max-width: 960px;
   width: 100%;
